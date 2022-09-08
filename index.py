@@ -1,5 +1,4 @@
 import random
-from secrets import choice
 
 #! CREATING CARD CLASS
 class Card:
